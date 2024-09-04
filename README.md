@@ -35,7 +35,7 @@ To get started with **UserCentral**, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/usercentral.git
+   git clone https://github.com/TrRahim/usercentral.git
 1. **Navigate to the project directory**:
    ```bash
    cd usercentral
